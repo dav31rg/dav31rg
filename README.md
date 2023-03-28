@@ -4,7 +4,7 @@
   <img 
     align="right"
     alt="coding_img" 
-    width="490"
+    width="480"
     src="https://cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/ab-img.png">
 
 <p align="justify">  
@@ -15,7 +15,7 @@ I am Davel <strong>full-stack dev</strong>, passionate about technology, and eag
 - 😄 I also like football, gaming, cooking and eating.
 <br>
   <p align="justify">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dav31rg&theme=dark&hide_border=false"/>
+    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=dav31rg&theme=dark&hide_border=false"/>
   </p>  
 </div>
 
