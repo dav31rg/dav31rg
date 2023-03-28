@@ -4,7 +4,7 @@
   <img 
     align="right"
     alt="coding_img" 
-    width="480"
+    width="480em"
     src="https://cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/ab-img.png">
 
 <p align="justify">  
