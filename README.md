@@ -14,9 +14,9 @@ I am Davel <strong>full-stack dev</strong>, passionate about technology, and eag
 - 🌱 I’m currently learning **Vue**
 - 😄 I also like football, gaming, cooking and eating.
 <br>
-<p align="center">
- <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=dav31rg&theme=dark&hide_border=false"/>
-</p>  
+  <p align="center">
+    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=dav31rg&theme=dark&hide_border=false"/>
+  </p>  
 </div>
 
 <br>
