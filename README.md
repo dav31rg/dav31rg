@@ -11,7 +11,7 @@
 I am Davel <strong>full-stack dev</strong>, passionate about technology, and eager to learn. Happy to connect and talk about technology.
 </p>
   
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Python**
 - 😄 I also like football, gaming, cooking and eating.
 <br>
   <p align="justify">
