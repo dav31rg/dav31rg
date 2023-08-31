@@ -14,6 +14,7 @@ I am Davel <strong>full-stack dev</strong>, passionate about technology, and eag
 - 🌱 I’m currently learning **Python**
 - 😄 I also like football, gaming, cooking and eating.
 - See my portfolio [here](https://deluxe-kulfi-311017.netlify.app/){:target="_blank"}
+- <a href="[https://www.tusitio.com](https://deluxe-kulfi-311017.netlify.app/)" target="_blank">See my portfolio here</a>
 
 <br>
   <p align="justify">
