@@ -16,7 +16,7 @@ I am Davel <strong>full-stack dev</strong>, passionate about technology, and eag
 - See my portfolio [here](https://deluxe-kulfi-311017.netlify.app/)
 
 <br>
-  <p align="justify">
+  <p align="center">
     <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=dav31rg&theme=dark&hide_border=false"/>
   </p>  
 </div>
