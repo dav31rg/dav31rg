@@ -13,7 +13,7 @@ I am Davel <strong>full-stack dev</strong>, passionate about technology, and eag
   
 - 🌱 I’m currently learning **Python**
 - 😄 I also like football, gaming, cooking and eating.
-- See my portfolio [here](https://deluxe-kulfi-311017.netlify.app/)
+- See my portfolio [here](https://deluxe-kulfi-311017.netlify.app/){:target="-blank"}
 
 <br>
   <p align="justify">
