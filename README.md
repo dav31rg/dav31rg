@@ -28,7 +28,7 @@ I am Davel <strong>full-stack dev</strong>, passionate about technology, and eag
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,ruby,rails,postgres,mysql,sqlite,cpp,git,github,figma,vscode,atom,babel,heroku,vite,linux,redux,arduino&perline=11" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,nestjs,ruby,rails,postgres,mysql,sqlite,cpp,git,github,figma,vscode,atom,babel,heroku,vite,linux,redux,arduino&perline=11" />
   </a>
 </p>
 
