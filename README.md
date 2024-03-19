@@ -4,8 +4,9 @@
   <img 
     align="right"
     alt="coding_img" 
-    width="480em"
-    src="https://cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/ab-img.png">
+    width="320em"
+    src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?t=st=1710861238~exp=1710864838~hmac=6966581a6ef5834791b7b97e50ce8dc2d1503792b39fb4b7b672fe8dbb7d5e8b&w=740"
+    >
 
 <p align="justify">  
 I am Davel <strong>full-stack dev</strong>, passionate about technology, and eager to learn. Happy to connect and talk about technology.
@@ -28,7 +29,7 @@ I am Davel <strong>full-stack dev</strong>, passionate about technology, and eag
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,nestjs,ruby,rails,postgres,mysql,sqlite,cpp,git,github,figma,vscode,atom,babel,heroku,vite,linux,redux,arduino&perline=11" />
+    <img src="https://skillicons.dev/icons?i=ruby,js,nodejs,ts,py,cpp,arduino,react,redux,nextjs,vue,html,css,rails,nestjs,prisma,postgres,mysql,sqlite,git,github,aws,docker,figma,vscode,atom,babel,heroku,vite,linux&perline=11" />
   </a>
 </p>
 
