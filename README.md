@@ -3,6 +3,8 @@
 
 <p align="center">
   I am Davel, a <strong>Full Stack Developer</strong> passionate about building web applications and backend services, technology, and continuous learning. 😄 Outside coding, I enjoy football, gaming, and cooking.
+  <br /><br />
+  🌐 <a href="https://davelrgobea.vercel.app/"><strong>Explore my portfolio →</strong></a>
 </p>
 
 <br />
